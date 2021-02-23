@@ -1,0 +1,55 @@
+h1 {
+    background: #83bdff;
+    text-transform: uppercase;
+    color: #fff183;
+    padding: 3%;
+}
+
+header {
+    background-color: #ff83a0;
+    text-align: center;
+    margin: 3%;
+}
+
+nav {
+    font-variant: small-caps;
+    font-size: 150%;
+    padding-bottom: 1%;
+}
+
+body {
+    background-color: #84ffb9;
+}
+
+h2 {
+    color: #83bdff;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: lowercase;
+}
+
+details {
+    font-style: italic;
+}
+
+summary {
+    font-style: normal;
+}
+
+footer {
+    clear: both;
+    background-color: #4ff5a7;
+}
+
+section {
+    width: 31%;
+    display: inline-block;
+    float: left;
+}
+
+a {
+    margin: 2%;
+}
+
+img {
+    width: 8%;
+}
